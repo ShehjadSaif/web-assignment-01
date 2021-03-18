@@ -69,7 +69,7 @@ a:active{
 
 .showcase{
     min-height: 550px;
-    background: url(../img/showcase.jpg) no-repeat;
+    background: url(img/showcase.jpg) no-repeat;
     background-size: cover;
     color: #fff;
     text-align: center;
