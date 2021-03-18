@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shehjad Saif</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Shehjad Saif</h1>
+            <nav>
+                <ul>
+                    <li>HOME</li>
+                    <li>ABOUT</li>
+                    <li>SERVICES</li>
+                    <li>OTHERS</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section>
+        <img src="" alt="">
+        <h1>Web Development With Bohemian</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur quidem magni eligendi? Et laboriosam a, quis voluptate provident assumenda? Quisquam necessitatibus nesciunt vel veritatis debitis repellat ratione blanditiis quo dolore?</p>
+    </section>
+    <section>
+        <h3>About Me</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt exercitationem animi cumque ea, laudantium harum, at quasi autem aperiam modi velit pariatur dolorum maiores iusto assumenda, ullam natus libero architecto!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt exercitationem animi cumque ea, laudantium harum, at quasi autem aperiam modi velit pariatur dolorum maiores iusto assumenda, ullam natus libero architecto!</p>
+        <img src="" alt="">
+    </section>
+    <section>
+        <h2>Subscribe To Our Newsletter</h2>
+        <form action=""></form>
+    </section>
+    <section></section>
+    <section>
+        <h3>Services</h3>
+        <div>
+            <h3></h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit iusto consequatur sapiente quo culpa, rem beatae, ipsa, corrupti aut repudiandae recusandae hic molestiae illum eligendi incidunt quibusdam quas consectetur explicabo!</p>
+        </div>
+        <div>
+            <h3></h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit iusto consequatur sapiente quo culpa, rem beatae, ipsa, corrupti aut repudiandae recusandae hic molestiae illum eligendi incidunt quibusdam quas consectetur explicabo!</p>
+        </div>
+        <div>
+            <h3></h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit iusto consequatur sapiente quo culpa, rem beatae, ipsa, corrupti aut repudiandae recusandae hic molestiae illum eligendi incidunt quibusdam quas consectetur explicabo!</p>
+        </div>
+    </section>
+    <aside>
+        <form action=""></form>
+    </aside>
+    <footer>
+        <p></p>
+    </footer>
+</body>
+</html>
